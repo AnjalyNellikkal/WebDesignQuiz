@@ -1,0 +1,106 @@
+.root{
+  margin: 0%;
+  padding: 0%;
+  background-color: blue;
+}
+.header{
+  
+  width: 100%;
+}
+.navigation{
+    background-color:rgb(135, 231, 235);
+
+  }
+
+  .form-control {
+    width: 60%;
+  }
+  
+  .question{
+    
+    background-color:rgb(188, 233, 241);
+    
+  }
+  .alert-danger {
+    background-color: #fa7984;
+    width: 25%;
+    height: 8%;
+    display:none; 
+    font-size: x-small;
+}
+  .h5{
+    font-weight: 800;
+    color:darkslategrey;
+  }
+   .btn btn-primary btn-lg{
+    background-color: rgb(52, 75, 77);
+   }
+   #btnNext{
+    background-color: rgb(52, 75, 77);
+    width: 30%;
+    margin-left: 30%;
+   }
+  #btnStart{
+    width: 30%;
+    margin-left: 20%;
+    font-weight: 600;
+  }
+  .options{
+    background-color: rgb(188, 240, 243);
+    width: 65%;
+    height: 15%;
+    padding: 3px;
+    margin-bottom: 3px;
+    border-style: ridge;
+    border-color: rgb(27, 73, 58);
+    border-radius: 5%;
+    margin-left: 15%;
+  }
+  .lblAns{
+    font-size: larger;
+    font: bold;
+    height: 2%;
+
+  }
+  .lbName{
+    margin-left: 30%;
+  }
+  #qBody{
+    display:none;
+    
+  }
+  #lbName{
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: xx-large;
+    color: darkslategrey;
+  }
+
+  .qimg{
+    height: 50px;
+  }
+  
+  .footer{
+    bottom: 0;
+    width: 100%;
+  }
+  #mainBody{
+    height: 90%;
+  }
+  .btn-group-vertical{
+    border: 0ch;
+    background-color: rgb(135, 231, 235);
+    width: fit-content;
+    color: rgb(52, 75, 77);
+    font-size: xx-large;
+    font-weight: 600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2px;
+
+  }
+  .btn-primary{
+    width: 30%;
+    margin-left: 20%;
+    font-weight: 600;
+    background-color: rgb(52, 75, 77);
+  }
